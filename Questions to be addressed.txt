@@ -1,0 +1,20 @@
+1. Highest total runs scored record belongs to?
+2. Highest wicket taker record belongs to?
+3. Teams with highest and lowest score.
+4. Average of all batsman?
+5. Batsman with highest average?
+6. Bowler with highest average?
+7. Return a column with comment based on total runs as howzthat.
+8. Batsman with highest strike rate?
+9. Bowler with lowest economy rate?
+10. Player with highest legbyes?
+11. Total number of matches played from 2008-2022?
+12. Printing all records of the most successfull team.
+13. Highest runs by which a team has ever won? Also find the average of all runs.
+14. Extra run conceeded?
+15. Number of boundaries hit in the ipl? Also return top 10 players.
+16. How many balls did TA Boult bowl to Shubhman Gill?
+17. Batman with name starting from 'A' and ending with 'N'?
+18. Create score card for each match id.
+19. Top 20 bowlers who conceeded highest extra runs.
+20. Name and number of wickets by bowlers who have taken more than or equal to 100 wickets in ipl.
