@@ -1,20 +1,18 @@
-1. Highest total runs scored record belongs to?
-2. Highest wicket taker record belongs to?
-3. Teams with highest and lowest score.
-4. Average of all batsman?
-5. Batsman with highest average?
-6. Bowler with highest average?
-7. Return a column with comment based on total runs as howzthat.
-8. Batsman with highest strike rate?
-9. Bowler with lowest economy rate?
-10. Player with highest legbyes?
-11. Total number of matches played from 2008-2022?
-12. Printing all records of the most successfull team.
-13. Highest runs by which a team has ever won? Also find the average of all runs.
-14. Extra run conceeded?
-15. Number of boundaries hit in the ipl? Also return top 10 players.
-16. How many balls did TA Boult bowl to Shubhman Gill?
-17. Batman with name starting from 'A' and ending with 'N'?
-18. Create score card for each match id.
-19. Top 20 bowlers who conceeded highest extra runs.
-20. Name and number of wickets by bowlers who have taken more than or equal to 100 wickets in ipl.
+1.	Highest total runs scored by belongs to?
+2.	Highest wicket taker record belongs to?
+3.	Teams with highest and lowest scores.
+4.	Total number of matches played?
+5.	Average of all batsman and batsman with highest average.
+6.	Return a column with comment based on total runs as howzthat.
+7.	Batsman with highest strike rate.
+8.	Total number of matches played in a season.
+9.	All players with their number of player of match awards.
+10.	Which player has won highest player of match per season?
+11.	Team that has won highest number of matches per year.
+12.	Percentage of total runs scored by all batsman in all of ipl history.
+13.	Total number of Six's by each batsman.
+14.	3000 runs club with the highest strike rate.
+15.	Lowest economy rate for bowler who has who has bowled atleast 50 overs.
+16.	Total number of matches played in the month of May.
+17.	Create a third table as a materialised view which contains columns from both the tables.
+18.	Batsman with names starting with S.
